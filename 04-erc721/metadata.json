@@ -1,0 +1,24 @@
+{
+    "name": "DADAN",
+    "description": "DADAN EXCLUSIVE BADGE",
+    "symbol": "DDN",
+    "image": "https://i.imgur.com/h9klJpU.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "DADAN EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "South Blue"
+        },
+        {
+            "trait_type": "website",
+            "value": "dadan.quest"
+        }
+    ]
+}
